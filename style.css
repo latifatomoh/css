@@ -1,0 +1,50 @@
+div {
+    background-color: gray;
+    border-radius: 20px;
+    border: 5px solid black;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+
+}
+
+img{
+    height: 250px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 25px;
+    font-style: normal;
+    font-weight: bold;
+    color: yellow;
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+h5 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+i{
+    margin-left: 40px;
+
+}
+
+i:hover{
+    color: blueviolet;
+    font-size: 25px;
+}
